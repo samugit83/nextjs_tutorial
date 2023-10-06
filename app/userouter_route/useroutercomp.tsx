@@ -32,9 +32,9 @@ return (
         </button><br/>   
         <button type="button" onClick={() => router.back()}>
             Back
-        </button>   
+        </button>     
     </>
 
 )
 
-}
+}  
