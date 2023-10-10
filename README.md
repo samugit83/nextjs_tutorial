@@ -1,6 +1,7 @@
 # Devergo Next.js Tutorial Project
 
 Welcome to the Next.js tutorial project! This repository accompanies the tutorial available on https://www.youtube.com/@devergolabs. 
+discover the course the playlist: https://www.youtube.com/playlist?list=PL_HcrMfo9rCfMz0EUApL_YGjTVTyIuFzO
 Follow along with the video to learn how to build a web application using Next.js.
 
 This course is brought to you by the team at Devergo Labs.
@@ -18,11 +19,9 @@ In this course, we don't just stop at theory. You'll get to apply what you learn
 🔗 Additional Learning Materials and developing services - www.devergolabs.com
 
 Subscribe to my channel: 
-  
+https://www.youtube.com/@devergolabs
 
- / @devergolabs  
-
-💼 Business Inquiries:
+💼 Business Inquiries and custom courses:
 E-mail: devergo@gmail.com
 Whatsapp: +39 3713735771
 Telegram: @samsamtx
