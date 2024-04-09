@@ -7,8 +7,6 @@ export default async function Page() {
 const res = await fetch('https://catfact.ninja/fact', {next: {revalidate: 0}})
 const data = await res.json()
 
-
-
 const apiPromises = [];
 
 const makeApiCall = async (url) => {
@@ -20,12 +18,7 @@ const makeApiCall = async (url) => {
     });
 };
 
-const apiUrls = [
-  'https://catfact.ninja/fact',
-  'https://catfact.ninja/fact',
-  'https://catfact.ninja/fact',
-  'https://catfact.ninja/fact',
-  'https://catfact.ninja/fact']
+const apiUrls = []
 
 apiUrls.forEach(url => {
   apiPromises.push(makeApiCall(url));

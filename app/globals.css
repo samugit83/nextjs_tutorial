@@ -24,3 +24,29 @@ body {
 .active {
   color: red
 }
+
+.cache_data_cont{
+  padding: 10px;
+  border: 1px solid rgb(212, 212, 212);
+  width: 500px;
+  border-radius: 10px;
+  background-color: rgb(235, 235, 235);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.cache_data_cont_2{
+  padding: 10px;
+  border: 1px solid rgb(212, 212, 212);
+  width: 1000px;
+  border-radius: 10px;
+  background-color: rgb(235, 235, 235);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.cache_data_button{
+  padding: 10px;
+  border: 1px solid rgb(212, 212, 212);
+  border-radius: 10px;
+  background-color: rgb(215, 255, 220);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

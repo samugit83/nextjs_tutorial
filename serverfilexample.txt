@@ -6,3 +6,121 @@ server action from CSR comp, data retrieved from a browser API call, on first lo
 data received from CSR with API CALL from the browser, (on first load or user event), and send data to server with route handler POST request: A cat has more bones than a human being; humans have 206 and the cat has 230 bones.
 server action from CSR comp, data retrieved from a browser API call, triggered by user event: A cat has more bones than a human; humans have 206, but the cat has 230 (some cites list 245 bones, and state that bones may fuse together as the cat ages).
 data received from CSR with API CALL from the browser, (on first load or user event), and send data to server with route handler POST request: In Holland’s embassy in Moscow, Russia, the staff noticed that the two Siamese cats kept meowing and clawing at the walls of the building. Their owners finally investigated, thinking they would find mice. Instead, they discovered microphones hidden by Russian spies. The cats heard the microphones when they turned on.
+action from the page: A cat will tremble or shiver when it is extreme pain.
+action from the ssr comp: A cat will tremble or shiver when it is extreme pain.
+action from the SSR comp nested in CSR comp, on first load: In 1987, cats overtook dogs as the number one pet in America (about 50 million cats resided in 24 million homes in 1986). About 37% of American homes today have at least one cat.
+server action from the ssr comp (use server on top of body function): In 1987, cats overtook dogs as the number one pet in America (about 50 million cats resided in 24 million homes in 1986). About 37% of American homes today have at least one cat.
+action from the page: Phoenician cargo ships are thought to have brought the first domesticated cats to Europe in about 900 BC.
+action from the ssr comp: Phoenician cargo ships are thought to have brought the first domesticated cats to Europe in about 900 BC.
+action from the SSR comp nested in CSR comp, on first load: Phoenician cargo ships are thought to have brought the first domesticated cats to Europe in about 900 BC.
+server action from the ssr comp (use server on top of body function): Phoenician cargo ships are thought to have brought the first domesticated cats to Europe in about 900 BC.
+action from the page: A cat will tremble or shiver when it is extreme pain.
+action from the ssr comp: A cat will tremble or shiver when it is extreme pain.
+action from the SSR comp nested in CSR comp, on first load: The cat's front paw has 5 toes, but the back paws have 4. Some cats are born with as many as 7 front toes and extra back toes (polydactl).
+server action from the ssr comp (use server on top of body function): The cat's front paw has 5 toes, but the back paws have 4. Some cats are born with as many as 7 front toes and extra back toes (polydactl).
+action from the page: Heat occurs several times a year and can last anywhere from 3 to 15 days.
+action from the ssr comp: Heat occurs several times a year and can last anywhere from 3 to 15 days.
+action from the SSR comp nested in CSR comp, on first load: Heat occurs several times a year and can last anywhere from 3 to 15 days.
+server action from the ssr comp (use server on top of body function): Heat occurs several times a year and can last anywhere from 3 to 15 days.
+action from the page: A cat will tremble or shiver when it is extreme pain.
+action from the ssr comp: A cat will tremble or shiver when it is extreme pain.
+action from the SSR comp nested in CSR comp, on first load: Cats can be taught to walk on a leash, but a lot of time and patience is required to teach them. The younger the cat is, the easier it will be for them to learn.
+server action from the ssr comp (use server on top of body function): Cats can be taught to walk on a leash, but a lot of time and patience is required to teach them. The younger the cat is, the easier it will be for them to learn.
+action from the page: A cat named Dusty, aged 1 7, living in Bonham, Texas, USA, gave birth to her 420th kitten on June 23, 1952.
+action from the ssr comp: A cat named Dusty, aged 1 7, living in Bonham, Texas, USA, gave birth to her 420th kitten on June 23, 1952.
+action from the SSR comp nested in CSR comp, on first load: A cat named Dusty, aged 1 7, living in Bonham, Texas, USA, gave birth to her 420th kitten on June 23, 1952.
+server action from the ssr comp (use server on top of body function): A cat named Dusty, aged 1 7, living in Bonham, Texas, USA, gave birth to her 420th kitten on June 23, 1952.
+action from the page: According to Hebrew legend, Noah prayed to God for help protecting all the food he stored on the ark from being eaten by rats. In reply, God made the lion sneeze, and out popped a cat.
+action from the ssr comp: According to Hebrew legend, Noah prayed to God for help protecting all the food he stored on the ark from being eaten by rats. In reply, God made the lion sneeze, and out popped a cat.
+action from the SSR comp nested in CSR comp, on first load: The first official cat show in the UK was organised at Crystal Palace in 1871.
+server action from the ssr comp (use server on top of body function): The first official cat show in the UK was organised at Crystal Palace in 1871.
+action from the page: A cat named Dusty, aged 1 7, living in Bonham, Texas, USA, gave birth to her 420th kitten on June 23, 1952.
+action from the ssr comp: A cat named Dusty, aged 1 7, living in Bonham, Texas, USA, gave birth to her 420th kitten on June 23, 1952.
+action from the SSR comp nested in CSR comp, on first load: A cat named Dusty, aged 1 7, living in Bonham, Texas, USA, gave birth to her 420th kitten on June 23, 1952.
+server action from the ssr comp (use server on top of body function): A cat named Dusty, aged 1 7, living in Bonham, Texas, USA, gave birth to her 420th kitten on June 23, 1952.
+action from the page: Tabby cats are thought to get their name from Attab, a district in Baghdad, now the capital of Iraq.
+action from the ssr comp: Tabby cats are thought to get their name from Attab, a district in Baghdad, now the capital of Iraq.
+action from the SSR comp nested in CSR comp, on first load: Blue-eyed, pure white cats are frequently deaf.
+server action from the ssr comp (use server on top of body function): Blue-eyed, pure white cats are frequently deaf.
+action from the page: People who are allergic to cats are actually allergic to cat saliva or to cat dander. If the resident cat is bathed regularly the allergic people tolerate it better.
+action from the ssr comp: People who are allergic to cats are actually allergic to cat saliva or to cat dander. If the resident cat is bathed regularly the allergic people tolerate it better.
+action from the SSR comp nested in CSR comp, on first load: People who are allergic to cats are actually allergic to cat saliva or to cat dander. If the resident cat is bathed regularly the allergic people tolerate it better.
+server action from the ssr comp (use server on top of body function): People who are allergic to cats are actually allergic to cat saliva or to cat dander. If the resident cat is bathed regularly the allergic people tolerate it better.
+action from the page: The cat's footpads absorb the shocks of the landing when the cat jumps.
+action from the ssr comp: The cat's footpads absorb the shocks of the landing when the cat jumps.
+action from the SSR comp nested in CSR comp, on first load: Cats can jump up to 7 times their tail length.
+server action from the ssr comp (use server on top of body function): Cats can jump up to 7 times their tail length.
+action from the page: A cat’s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.
+action from the ssr comp: A cat’s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.
+action from the SSR comp nested in CSR comp, on first load: A cat’s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.
+server action from the ssr comp (use server on top of body function): A cat’s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.
+action from the page: The cat's footpads absorb the shocks of the landing when the cat jumps.
+action from the ssr comp: The cat's footpads absorb the shocks of the landing when the cat jumps.
+action from the SSR comp nested in CSR comp, on first load: Owning a cat is actually proven to be beneficial for your health.
+server action from the ssr comp (use server on top of body function): Owning a cat is actually proven to be beneficial for your health.
+server action from CSR comp (function in a separate file): Owning a cat is actually proven to be beneficial for your health.
+action from route handler: There are more than 500 million domestic cats in the world, with approximately 40 recognized breeds.
+action from the page: There are up to 60 million feral cats in the United States alone.
+action from the ssr comp: There are up to 60 million feral cats in the United States alone.
+action from the SSR comp nested in CSR comp, on first load: A cat will tremble or shiver when it is in extreme pain.
+server action from the ssr comp (use server on top of body function): A cat will tremble or shiver when it is in extreme pain.
+action from the page: A cat's whiskers are thought to be a kind of radar, which helps a cat gauge the space it intends to walk through.
+action from the ssr comp: A cat's whiskers are thought to be a kind of radar, which helps a cat gauge the space it intends to walk through.
+action from the SSR comp nested in CSR comp, on first load: A cat's whiskers are thought to be a kind of radar, which helps a cat gauge the space it intends to walk through.
+server action from the ssr comp (use server on top of body function): A cat's whiskers are thought to be a kind of radar, which helps a cat gauge the space it intends to walk through.
+action from the page: There are up to 60 million feral cats in the United States alone.
+action from the ssr comp: There are up to 60 million feral cats in the United States alone.
+action from the SSR comp nested in CSR comp, on first load: A cat sees about 6 times better than a human at night, and needs 1/6 the amount of of light that a human does - it has a layer of extra reflecting cells which absorb light.
+server action from the ssr comp (use server on top of body function): A cat sees about 6 times better than a human at night, and needs 1/6 the amount of of light that a human does - it has a layer of extra reflecting cells which absorb light.
+action from the page: The cat appears to be the only domestic companion animal not mentioned in the Bible.
+action from the ssr comp: The cat appears to be the only domestic companion animal not mentioned in the Bible.
+action from the SSR comp nested in CSR comp, on first load: The cat appears to be the only domestic companion animal not mentioned in the Bible.
+server action from the ssr comp (use server on top of body function): The cat appears to be the only domestic companion animal not mentioned in the Bible.
+action from the page: There are up to 60 million feral cats in the United States alone.
+action from the ssr comp: There are up to 60 million feral cats in the United States alone.
+action from the SSR comp nested in CSR comp, on first load: Miacis, the primitive ancestor of cats, was a small, tree-living creature of the late Eocene period, some 45 to 50 million years ago.
+server action from the ssr comp (use server on top of body function): Miacis, the primitive ancestor of cats, was a small, tree-living creature of the late Eocene period, some 45 to 50 million years ago.
+action from the page: Many Egyptians worshipped the goddess Bast, who had a woman’s body and a cat’s head.
+action from the ssr comp: Many Egyptians worshipped the goddess Bast, who had a woman’s body and a cat’s head.
+action from the SSR comp nested in CSR comp, on first load: Many Egyptians worshipped the goddess Bast, who had a woman’s body and a cat’s head.
+server action from the ssr comp (use server on top of body function): Many Egyptians worshipped the goddess Bast, who had a woman’s body and a cat’s head.
+action from the page: There are up to 60 million feral cats in the United States alone.
+action from the ssr comp: There are up to 60 million feral cats in the United States alone.
+action from the SSR comp nested in CSR comp, on first load: Both humans and cats have identical regions in the brain responsible for emotion.
+server action from the ssr comp (use server on top of body function): Both humans and cats have identical regions in the brain responsible for emotion.
+action from the page: Some Siamese cats appear cross-eyed because the nerves from the left side of the brain go to mostly the right eye and the nerves from the right side of the brain go mostly to the left eye. This causes some double vision, which the cat tries to correct by “crossing” its eyes.
+action from the ssr comp: Some Siamese cats appear cross-eyed because the nerves from the left side of the brain go to mostly the right eye and the nerves from the right side of the brain go mostly to the left eye. This causes some double vision, which the cat tries to correct by “crossing” its eyes.
+action from the SSR comp nested in CSR comp, on first load: Some Siamese cats appear cross-eyed because the nerves from the left side of the brain go to mostly the right eye and the nerves from the right side of the brain go mostly to the left eye. This causes some double vision, which the cat tries to correct by “crossing” its eyes.
+server action from the ssr comp (use server on top of body function): Some Siamese cats appear cross-eyed because the nerves from the left side of the brain go to mostly the right eye and the nerves from the right side of the brain go mostly to the left eye. This causes some double vision, which the cat tries to correct by “crossing” its eyes.
+action from the page: There are up to 60 million feral cats in the United States alone.
+action from the ssr comp: There are up to 60 million feral cats in the United States alone.
+action from the SSR comp nested in CSR comp, on first load: Cats can jump up to 7 times their tail length.
+server action from the ssr comp (use server on top of body function): Cats can jump up to 7 times their tail length.
+action from the page: The Amur leopard is one of the most endangered animals in the world.
+action from the ssr comp: The Amur leopard is one of the most endangered animals in the world.
+action from the SSR comp nested in CSR comp, on first load: The Amur leopard is one of the most endangered animals in the world.
+server action from the ssr comp (use server on top of body function): The Amur leopard is one of the most endangered animals in the world.
+action from the page: There are up to 60 million feral cats in the United States alone.
+action from the ssr comp: There are up to 60 million feral cats in the United States alone.
+action from the SSR comp nested in CSR comp, on first load: Approximately 24 cat skins can make a coat.
+server action from the ssr comp (use server on top of body function): Approximately 24 cat skins can make a coat.
+action from the page: The most popular pedigreed cat is the Persian cat, followed by the Main Coon cat and the Siamese cat.
+action from the ssr comp: The most popular pedigreed cat is the Persian cat, followed by the Main Coon cat and the Siamese cat.
+action from the SSR comp nested in CSR comp, on first load: The most popular pedigreed cat is the Persian cat, followed by the Main Coon cat and the Siamese cat.
+server action from the ssr comp (use server on top of body function): The most popular pedigreed cat is the Persian cat, followed by the Main Coon cat and the Siamese cat.
+action from the page: There are up to 60 million feral cats in the United States alone.
+action from the ssr comp: There are up to 60 million feral cats in the United States alone.
+action from the SSR comp nested in CSR comp, on first load: The life expectancy of cats has nearly doubled over the last fifty years.
+server action from the ssr comp (use server on top of body function): The life expectancy of cats has nearly doubled over the last fifty years.
+action from the page: One reason that kittens sleep so much is because a growth hormone is released only during sleep.
+action from the ssr comp: One reason that kittens sleep so much is because a growth hormone is released only during sleep.
+action from the SSR comp nested in CSR comp, on first load: One reason that kittens sleep so much is because a growth hormone is released only during sleep.
+server action from the ssr comp (use server on top of body function): One reason that kittens sleep so much is because a growth hormone is released only during sleep.
+action from the page: There are up to 60 million feral cats in the United States alone.
+action from the ssr comp: There are up to 60 million feral cats in the United States alone.
+action from the SSR comp nested in CSR comp, on first load: Today there are about 100 distinct breeds of the domestic cat.
+server action from the ssr comp (use server on top of body function): Today there are about 100 distinct breeds of the domestic cat.
+action from the page: The silks created by weavers in Baghdad were inspired by the beautiful and varied colors and markings of cat coats. These fabrics were called 'tabby' by European traders.
+action from the ssr comp: The silks created by weavers in Baghdad were inspired by the beautiful and varied colors and markings of cat coats. These fabrics were called 'tabby' by European traders.
+action from the SSR comp nested in CSR comp, on first load: The silks created by weavers in Baghdad were inspired by the beautiful and varied colors and markings of cat coats. These fabrics were called 'tabby' by European traders.
+server action from the ssr comp (use server on top of body function): The silks created by weavers in Baghdad were inspired by the beautiful and varied colors and markings of cat coats. These fabrics were called 'tabby' by European traders.
